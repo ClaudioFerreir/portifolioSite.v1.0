@@ -3,3 +3,14 @@
   
 #projects-container
   background-color: variables.$bg-color
+  border-radius: variables.$container-border-radius
+  padding: 3rem
+
+  h2
+    @include mixins.subtitle
+    @include mixins.center
+    justify-content: start
+    gap: 1rem
+
+    &:after
+      @include mixins.gradient-border
