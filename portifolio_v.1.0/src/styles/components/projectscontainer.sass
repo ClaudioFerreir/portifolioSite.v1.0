@@ -45,3 +45,32 @@
     .btn
       @include mixins.btn
       
+
+@media screen and (max-width: variables.$mobile)
+  #projects-container
+    background-color: variables.$bg-color
+    border-radius: variables.$container-border-radius
+    padding: 1rem
+
+    h2
+      margin-bottom: 3rem
+
+    .project-card
+      flex-direction: column
+      margin-bottom: 0rem
+      padding-bottom: 0rem
+
+      .card-image
+        order: 1
+
+      .card-info
+        @include mixins.center
+        order: 2
+        padding-top: 0
+        margin-bottom: .5rem
+
+        p
+          display: none
+
+
+
