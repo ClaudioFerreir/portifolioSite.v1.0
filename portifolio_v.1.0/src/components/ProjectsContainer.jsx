@@ -16,7 +16,7 @@ const ProjectsContainer = () => {
         <div className="card-info">
           <p>
           Este projeto de um site e-commerce de vinhos é projetado para oferecer uma experiência de compra intuitiva e agradável aos usuários. Ele possui uma navegação facilitada, com categorias bem definidas que permitem aos usuários explorar diferentes tipos de vinhos, como tintos, brancos e espumantes.
-          O layout do site é atraente e convidativo, com imagens e videos dispostos para criar uma experiência agradável e envolvente. Além disso, o site é responsivo, se adaptando a diferentes tamanhos de tela. 
+          O layout do site é atraente e convidativo, com imagens e videos dispostos para criar uma experiência envolvente. Além disso, o site é responsivo, se adaptando a diferentes tamanhos de tela. 
           </p>
           <a href="https://project-wine-shop.vercel.app/?vercelToolbarCode=TjWlYHCPS2Z7vH-" target="_blank" className="btn">
           Ver Projeto
