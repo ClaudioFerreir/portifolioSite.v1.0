@@ -1,0 +1,42 @@
+@use '../variables'
+@use '../mixins'
+  
+#projects-container
+  background-color: variables.$bg-color
+  border-radius: variables.$container-border-radius
+  padding: 3rem
+
+  h2
+    @include mixins.subtitle
+    @include mixins.center
+    justify-content: start
+    gap: 1rem
+
+    &:after
+      @include mixins.gradient-border
+
+  .card-image
+    img
+      width: 100%
+      height: 100%
+      object-fit: cover
+      border-radius: variables.$card-border-radius
+
+  .project-card
+    @include mixins.center
+    margin-bottom: 2rem
+    padding-bottom: 2rem
+    border-bottom: 1px solid variables.$bg-color-secondary
+
+  .card-info
+    padding: 2rem
+
+    p
+      @include mixins.Standart-text
+
+    a 
+      margin-top: 1rem
+
+    .btn
+      @include mixins.btn
+      
