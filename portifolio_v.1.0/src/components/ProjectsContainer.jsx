@@ -15,9 +15,10 @@ const ProjectsContainer = () => {
         </div>
         <div className="card-info">
           <p>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Excepturi animi quos odit rem impedit. Ipsam nobis repudiandae, a unde quaerat hic deserunt cumque quibusdam laborum quis veniam distinctio repellendus quasi.
+          Este projeto de um site e-commerce de vinhos é projetado para oferecer uma experiência de compra intuitiva e agradável aos usuários. Ele possui uma navegação facilitada, com categorias bem definidas que permitem aos usuários explorar diferentes tipos de vinhos, como tintos, brancos e espumantes.
+          O layout do site é atraente e convidativo, com imagens e videos dispostos para criar uma experiência agradável e envolvente. Além disso, o site é responsivo, se adaptando a diferentes tamanhos de tela. 
           </p>
-          <a href="https://project-wine-shop.vercel.app/?vercelToolbarCode=TjWlYHCPS2Z7vH-" className="btn">
+          <a href="https://project-wine-shop.vercel.app/?vercelToolbarCode=TjWlYHCPS2Z7vH-" target="_blank" className="btn">
           Ver Projeto
           </a>
         </div>
@@ -25,9 +26,9 @@ const ProjectsContainer = () => {
       <div className='project-card'>
         <div className="card-info">
           <p>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Excepturi animi quos odit rem impedit. Ipsam nobis repudiandae, a unde quaerat hic deserunt cumque quibusdam laborum quis veniam distinctio repellendus quasi.
+          O objetivo final do projeto foi fornecer uma experiência de usuário agradável, com uma página responsiva que se adapta a diferentes dispositivos, combinando recursos do Bootstrap (carousel,cards, modal, toast, alert, collapse e layout grid) e JavaScript. Além disso, há ligação com uma API externa (IBGE) para exibir e acessar as cidades do Brasil de forma intuitiva, visualmente atraente e dinâmica.
           </p>
-          <a href="https://project-wine-shop.vercel.app/?vercelToolbarCode=TjWlYHCPS2Z7vH-" className="btn">
+          <a href="https://project-advanced-bootstrap.vercel.app/?vercelToolbarCode=PKILJ5MASC99Oof" target="_blank" className="btn">
           Ver Projeto
           </a>
         </div>
@@ -41,9 +42,9 @@ const ProjectsContainer = () => {
         </div>
         <div className="card-info">
           <p>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Excepturi animi quos odit rem impedit. Ipsam nobis repudiandae, a unde quaerat hic deserunt cumque quibusdam laborum quis veniam distinctio repellendus quasi.
+          O projeto consistiu na criação de um site responsivo simulando um e-commerce de artigos esportivos. Foi utilizado o CSS Grid para criar um layout flexível que se adapta a diferentes tamanhos de tela, permitindo uma exibição harmoniosa dos produtos em grade. O menu lateral estático do Bootstrap foi implementado para facilitar a navegação do usuário, fornecendo categorias e filtros para refinar a busca de produtos. 
           </p>
-          <a href="https://project-decathlon-pt-layout.vercel.app/?vercelToolbarCode=0lCfj-7tPcxryri#" className="btn">
+          <a href="https://project-decathlon-pt-layout.vercel.app/?vercelToolbarCode=0lCfj-7tPcxryri#" target="_blank" className="btn">
           Ver Projeto
           </a>
         </div>
@@ -51,9 +52,9 @@ const ProjectsContainer = () => {
       <div className='project-card'>
         <div className="card-info">
           <p>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Excepturi animi quos odit rem impedit. Ipsam nobis repudiandae, a unde quaerat hic deserunt cumque quibusdam laborum quis veniam distinctio repellendus quasi.
+          A página é baseada em HTML e CSS e apresenta uma estrutura comumente encontrada em muitos sites. Há imagens e vídeos, além de um formulário de contato. O objetivo foi criar uma página com design atraente, elementos bem estruturados e estilizados usando HTML e CSS.
           </p>
-          <a href="https://project-wine-shop.vercel.app/?vercelToolbarCode=TjWlYHCPS2Z7vH-" className="btn">
+          <a href="https://projeto-doceria-two.vercel.app/?vercelToolbarCode=V_GaZ_g8wfQ7-dl" target="_blank" className="btn">
           Ver Projeto
           </a>
         </div>
