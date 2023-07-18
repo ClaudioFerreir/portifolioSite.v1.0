@@ -5,6 +5,7 @@ import '../styles/components/sidebar.sass'
 import '../styles/components/socialnetworks.sass'
 
 import Avatar from '../img/FotoCV.jpg'
+import CV from '../documents/ClaudioFerreira_Resume.pdf'
 
 const Sidebar = () => {
   return (
@@ -13,8 +14,8 @@ const Sidebar = () => {
       <p className="title">Desenvolvedor Full Stack</p>
       <SocialNetwork />
       <InformationContainer />
-      <a href="" className="btn">
-        Download currículo
+      <a href={CV} className="btn" target='_blank'>
+        Ver currículo
       </a>
     </aside>
   )
